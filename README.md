@@ -7,4 +7,4 @@ A secure password generator built with Python.
 2. Enter the desired password length.
 3. Copy your new secure password!
 
-[🚀 Click here to try the Live App!](https://PUT-YOUR-STREAMLIT-LINK-HERE)
+[🚀 Click here to try the Live App!](https://pwgenerator.streamlit.app/)
