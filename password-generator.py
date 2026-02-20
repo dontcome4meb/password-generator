@@ -12,6 +12,9 @@ import random
 import string
 
 all_characters = string.ascii_letters + string.digits + string.punctuation
+length = int(input("Enter password length:"))
 
 
-print(all_characters)
+
+
+
