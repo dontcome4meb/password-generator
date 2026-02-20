@@ -7,3 +7,11 @@
 # 4. Generate the password
 
 # 5. Print the result
+
+import random
+import string
+
+all_characters = string.ascii_letters + string.digits + string.punctuation
+
+
+print(all_characters)
